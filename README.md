@@ -60,14 +60,15 @@ The following is the summary of the comparison between June and December tempera
   * The maximum precipitation is far away from the mean, this can indicate that there is an outlier. The standard deviation is high, mean, and median or 2nd quartile are far apart, meaning that distribution of the data is highly spread out. To add information about the precipitation in all year round, two graph describing precipitation for year 2015 and 2016 is added. From Figure 3 and Figure 4, we can see that there is always an precipitation outlier in every month. But the average precipitation all year round is under 2
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/88597187/138209890-c8030d8a-278c-4d8f-aa1d-5d57a5ec58d2.png"/>
+<img src="https://user-images.githubusercontent.com/88597187/138211563-73a503cb-1b4d-4016-b61d-8bf7c2fe79ad.jpg"/>
+ 
 </p>
 <p align="center">
   <sub> Figure 3 Precipitation for Year 2015 Graph </sub>
 </p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/88597187/138210045-ab99d058-1c55-4cc2-873a-c9d48321a802.png"/>
+<img src="https://user-images.githubusercontent.com/88597187/138211625-937a31dd-1c08-47c5-a59a-6f374284d845.jpg"/>
 </p>
 <p align="center">
   <sub> Figure 4 Precipitation for Year 2016 Graph </sub>
