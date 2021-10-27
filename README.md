@@ -1,6 +1,6 @@
 # Surfs_Up
 ## 1 Overview of The Project
-Weather plays important aspect to open a surf n shake shop. A perfect weather to open surf n shake shop is sunny all through the year with enough rain to keep everything green, but not so much that you lose out on that ideal surfing and ice cream weather. To determine if the surf and ice cream shop business is sustainable year-round, this analysis will focus on June and December temperature analysis.
+Weather plays an important aspect in opening a surf n shake shop. The perfect weather to open a surf n shake shop is sunny all through the year with enough rain to keep everything green, but not so much that you lose out on that ideal surfing and ice cream weather. To determine if the surf and ice cream shop business is sustainable year-round, this analysis will focus on June and December temperature analysis.
 The following tasks will be performed in this analysis:
   1.	Create query to retrieve the June and December temperatures and precipitation
   2.	Create list for the June and December Temperatures and precipitation
@@ -56,8 +56,8 @@ Figure 2 describe comparison between June and December Precipitation:
 ## 4 Summary
 
 The following is the summary of the comparison between June and December temperature and precipitation:
-  * From the mean temperature we can see that there is not much difference on temperature between June and December. The mean and median are not far apart means that the data is not spread out. This indicates that the temperature is mild and warm all year round.
-  * The maximum precipitation is far away from the mean, this can indicate that there is an outlier. The standard deviation is high, mean, and median or 2nd quartile are far apart, meaning that distribution of the data is highly spread out. To add information about the precipitation in all year round, two graph describing precipitation for year 2015 and 2016 is added. From Figure 3 and Figure 4, we can see that there is always an precipitation outlier in every month. But the average precipitation all year round is under 2
+  * There is not much temperature difference as shown in the mean temperature data. The mean and median are not far apart means that the data is not spread out. This indicates that the temperature is mild and warm all year round.
+  * The maximum precipitation is far away from the mean, this can indicate that there is an outlier. The standard deviation is high, mean, and median or 2nd quartile are far apart, meaning that distribution of the data is highly spread out. To add information about the precipitation in all year round, two graph describing precipitation for year 2015 and 2016 is added. There is always a precipitation outlier in every month as suggested by Figure 3 and 4, however, the average precipitation for all year around stays under 2.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/88597187/138211563-73a503cb-1b4d-4016-b61d-8bf7c2fe79ad.jpg"/>
@@ -74,4 +74,4 @@ The following is the summary of the comparison between June and December tempera
   <sub> Figure 4 Precipitation for Year 2016 Graph </sub>
 </p>
 
-* The investor main concerned is the temperature are not warm enough and the rainfall frequency is too high. By comparing the data for temperature and precipitation, we can see that the temperature is mainly mild, warm and the rainfall is not that frequent for all year round.
+* The main concern of investor is the temperature are not warm enough and the rainfall frequency is too high. By comparing the data for temperature and precipitation,  it can be concluded that the temperature is mainly mild, warm, and medium rainfall for all year around
